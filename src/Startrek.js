@@ -5,7 +5,7 @@ class StarTrek {
     this.captain = captain
   }
 
-  theBest() {
+  theActualBest() {
     let best = "Deep Space Nine is the best series, Voyager is the best Ship, Jean Luc Picard is the best Captain!"
     return best
   }
